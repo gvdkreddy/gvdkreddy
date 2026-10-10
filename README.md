@@ -1,4 +1,4 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gvdkreddy&theme=holi&animation=rise&duration=10&name=Gopavaram+Venkata+Dharani+Kumar+Reddy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gvdkreddy&theme=holi&animation=rise&duration=10&name=G+V+D+K+REDDY)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gvdkreddy&theme=holi&animation=rise&duration=10)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gvdkreddy&theme=holi&animation=rise&duration=10)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gvdkreddy&theme=holi&animation=rise&duration=10)
